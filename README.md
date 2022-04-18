@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kenny Schmidt, @kwschmidtjr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Node.js projects
+- 👀 I’m interested in Django and Python
+- 💞️ I would be intrested in collaborating on Django projects
 - 📫 Contact me at kwschmidtjr@gmail.com
 
 <!---
