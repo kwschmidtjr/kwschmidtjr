@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kenny Schmidt, @kwschmidtjr
 - 👀 I’m interested in Django and Python
-- 👀 I'm also seeking employment as an individual contributor in a technology program management position
 - 💞️ I would be intrested in collaborating on Django projects
 - 📫 Contact me at kwschmidtjr@gmail.com
 
